@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://HardwareDr.github.io/sitemap.xml
